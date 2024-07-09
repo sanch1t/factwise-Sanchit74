@@ -29,7 +29,7 @@ function App() {
   } else if (!squares.includes(null)) {
     status = 'Draw';
   } else {
-    status = 'Next player: ' + (isPlayer1Next ? 'Player 1 (X)' : 'Player 2 (O)');
+    status = 'Next player: ' + (isPlayer1Next ? 'Player 1 (X)' : 'Player 2 (✔)');
   }
 
   return (
