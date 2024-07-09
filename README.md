@@ -3,4 +3,6 @@ SANCHIT SINGH - SRM KTR - RA2111030010074
 
 clone the repo
 >> npm install
+
+
 >> npm start
